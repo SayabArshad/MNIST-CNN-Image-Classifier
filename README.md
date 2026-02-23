@@ -66,7 +66,7 @@ Show a sample test image with its predicted label.
 
 ```
 MNIST-CNN-Image-Classifier/
-│-- Image classifier.py                    t
+│-- Image classifier.py                    
 │-- README.md                                
 │-- assets/                                  
 │    ├── code.JPG
