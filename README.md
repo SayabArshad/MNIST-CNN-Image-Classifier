@@ -79,7 +79,7 @@ MNIST-CNN-Image-Classifier/
 
 | 📝 Code Snippet | 📊 Console Output |
 |:---------------:|:-----------------:|
-| ![Code Snippet](assets/code.JPG) | ![Terminal](assets/terminal.JPG) |
+| ![Code Snippet](assets/image%20classifier%20code.JPG) | ![Terminal](assets/image%20classifier%20terminal.JPG) |
 
 ## 📈 Sample Prediction
 
